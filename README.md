@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[My website](https://kogilo.github.io/)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Still Walking
--->
