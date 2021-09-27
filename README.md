@@ -11,3 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[My website](https://kogilo.github.io/)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Still Walking
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kogilo&theme=neon-palenight&hide_border=true)](https://git.io/streak-stats)
+
+[![Abulla's GitHub stats](https://github-readme-stats.vercel.app/api?username=kogilo&theme=neon-palenight)](https://github.com/kogilo/github-readme-stats)
+
