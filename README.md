@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...Conflict Data Analysis
 - 🤔 I’m looking for help with ...AWS
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...[My website](https://kogilo.github.io/) @ [My Salesforce Blog](https://abella-developer-edition.na212.force.com/s/)
+- 📫 How to reach me: ...[My website](https://kogilo.github.io/)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Still Walking
 
