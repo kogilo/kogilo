@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently learning ...Salesforce Pathfinder Program by Deloitte.
+- 🔭 I’m currently learning ...Saftware Engineering offered by Per Scholas.
 - 🌱 I’m currently  working on ......Different Data Science Projects 
 - 👯 I’m looking to collaborate on ...Conflict Data Analysis
 - 🤔 I’m looking for help with ...AWS
