@@ -1,8 +1,6 @@
 ### Hi there! My name is Abulla 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently learning ...Software Engineering offered by Per Scholas.
 - 🌱 I’m currently  working on ......Different Data Science Projects 
 - 👯 I’m looking to collaborate on ...Conflict Data Analysis
